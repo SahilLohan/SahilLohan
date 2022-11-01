@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil 😍</h1>
 <h3 align="center">I am a Computer Science Engineer from India</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw24ktkVD9KtcdL64t1JX4fK&ust=1667367297047000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKi0s62hjPsCFQAAAAAdAAAAABAh" alt="Coding">
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw24ktkVD9KtcdL64t1JX4fK&ust=1667367297047000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKi0s62hjPsCFQAAAAAdAAAAABBK" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahillohan&label=Profile%20views&color=0e75b6&style=flat" alt="sahillohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahillohan" alt="sahillohan" /></a> </p>
@@ -28,7 +28,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sahillohan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahillohan" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahillohan&show_icons=true&locale=en&layout=compact" alt="sahillohan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahillohan&show_icons=true&locale=en" alt="sahillohan" /></p>
