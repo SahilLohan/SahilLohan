@@ -29,7 +29,8 @@
 <!-- streak and trophies -->
 <p align="center">
   <img height="120" width="110" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilLohan&theme=dark&hide_border=true"/>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilLohan&theme=dark&hide_border=true"/> -->
+<!--   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
   <img height="120" width="110" src="WEBP/right.webp">
 </p>
 
@@ -64,7 +65,7 @@
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilLOhan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilLohan&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SahilLohan&bg_color=000000&color=9e4c98&line=9e4c98&point=2a2828&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
