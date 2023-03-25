@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sahillohan07@gmail.com**
 
-- 📄 Know about my experiences [https://sahillohan.github.io/Portfolio/](Portfolio)
+- 📄 Know about my experiences [https://sahillohan.github.io/Portfolio]
 
 - ⚡ Fun fact **I am chilled bruh 🔥**
 
