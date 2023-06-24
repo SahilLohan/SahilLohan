@@ -4,7 +4,7 @@
   
 <img src= "WEBP/robo_world.webp" height="250px" width="350px" align="right">
 </h1>
-![](https://komarev.com/ghpvc/?username=SahilLohan&label=PROFILE+VIEWS&color=blue&style=plastic)
+
 <br>
 <h3 align="left">I'm Sahil 😍</h3>
 <h3 align="left">I am a Computer Science Engineer from India</h3>
@@ -96,7 +96,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahillohan&" alt="sahillohan" /></p>
 
 <br/> -->
-
+<img src= "https://komarev.com/ghpvc/?username=SahilLohan&label=PROFILE+VIEWS&color=blue&style=plastic">
 <hr>
 
 
