@@ -20,9 +20,9 @@
 
 - 📫 How to reach me **sahillohan07@gmail.com**
 
-- 📄 Know about my experiences [https://sahillohan.github.io/Portfolio]
+<!-- - 📄 Know about my experiences [https://sahillohan.github.io/Portfolio]  -->
 
-- ⚡ Fun fact **I am chilled bruh 🔥**
+- ⚡ Fun fact **I reading Bhagwat Geeta 💕**
 
 <br>
 
