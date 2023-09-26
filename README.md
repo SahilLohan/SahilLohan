@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Backend Development (MERN) and Applied Machine Learning**
 
-- 💬 Ask me about **C++ , Java , DBMS**
+- 💬 Ask me about **C++, MERN stack, Machine Learning, DBMS**
 
 - 📫 How to reach me **sahillohan07@gmail.com**
 
