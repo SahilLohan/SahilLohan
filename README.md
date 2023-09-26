@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Python and Frontend Development**
+- 🌱 I’m currently learning **NodeJS and Applied Machine Learning**
 
 - 💬 Ask me about **C++ , Java , DBMS**
 
