@@ -22,7 +22,7 @@
 
 <!-- - 📄 Know about my experiences [https://sahillohan.github.io/Portfolio]  -->
 
-- ⚡ Fun fact **I reading Bhagwat Geeta 💕**
+- ⚡ Fun fact **I love reading Bhagwat Geeta 💕**
 
 <br>
 
